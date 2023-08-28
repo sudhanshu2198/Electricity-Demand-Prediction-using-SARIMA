@@ -9,6 +9,8 @@ Forecasting power demand plays an essential role in the electric industry, as it
 
 **The main goal of this project electricity demand time series using SARIMA (Seasonal Auto Regressive Integrated Moving Average) for medium term forcasts.**
 
+![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/2.PNG)
+
 ## 🔗 Links
 
 - [Dataset](https://www.kaggle.com/datasets/kandij/electric-production)
@@ -19,7 +21,12 @@ Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, pmdarima
 
 ## Results
 
+**Time Series Component Decomposition**
+![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/3.PNG)
+![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/6.PNG)
 
+**Forecasting**
+![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/7.PNG)
 
 
 
