@@ -26,6 +26,7 @@ Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Statsmodel, pmdarima
 ![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/6.PNG)
 
 **Forecasting**
+
 ![](https://github.com/sudhanshu2198/Electricity-Demand-Prediction-using-SARIMA/blob/main/images/7.PNG)
 
 
